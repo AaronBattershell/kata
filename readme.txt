@@ -8,6 +8,9 @@ Test input can be found in the data directory.
 
 Building:
 
+	Environment: Linux terminal
+	Prerequisites: g++ for compiling (or similar)
+
 	To build a program use the command        
 		$ g++ bowl1.cpp -o bowl1.out
 	To run a program                          
